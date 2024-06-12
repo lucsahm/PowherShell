@@ -1,0 +1,21 @@
+{
+  "nome": "João Silva",
+  "idade": 30,
+  "endereço": {
+    "rua": "Rua das Flores",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000-000"
+  },
+  "telefones": [
+    {
+      "tipo": "casa",
+      "numero": "1234-5678"
+    },
+    {
+      "tipo": "trabalho",
+      "numero": "8765-4321"
+    }
+  ],
+  "email": "joao.silva@example.com"
+}

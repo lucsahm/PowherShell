@@ -1,0 +1,21 @@
+{
+  "nome": "Maria Oliveira",
+  "idade": 25,
+  "endereço": {
+    "rua": "Avenida Central",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "cep": "20000-000"
+  },
+  "telefones": [
+    {
+      "tipo": "celular",
+      "numero": "9876-5432"
+    },
+    {
+      "tipo": "trabalho",
+      "numero": "4321-6789"
+    }
+  ],
+  "email": "maria.oliveira@example.com"
+}}
